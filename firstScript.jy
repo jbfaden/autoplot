@@ -1,1 +1,2 @@
 result= ripples(100)+mod(findgen(100),2)
+plot( result )
